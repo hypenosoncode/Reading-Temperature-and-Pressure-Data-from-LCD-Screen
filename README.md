@@ -6,6 +6,10 @@
 
 ![bmp180_lcd](https://user-images.githubusercontent.com/74931027/168491590-e03953c3-95dc-4e01-a598-113d9659814f.jpeg)
 
+**Önemli Not:** Projede kullanılan kütüphane BMP085 kütüphanesidir. Ancak BMP180 'de kullanılmasında herhangi bir sakınca yoktur.
+
+**Important Note:** The library used in the project is the library of BMP085. However, there is no harm in using it in BMP180.
+
 # Faydalı olması dileğimle... İyi çalışmalar.
 **İSMAİL SELÇUK ÇINAR / Electrical and Electronics & Aeronautical Engineering Student - 3rd Year**
 
